@@ -1,0 +1,6 @@
+http://localhost:8080/teste/x/teste?param1=teste&param2=teste2
+
+{
+    "x": 1,
+    "y": "2"
+}

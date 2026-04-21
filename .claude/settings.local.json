@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dconf read *)",
+      "Bash(dconf dump *)",
+      "Bash(fc-match \"Adwaita Mono\")",
+      "Bash(fc-match monospace:charset=e5fb)",
+      "Bash(gsettings set *)"
+    ]
+  }
+}
